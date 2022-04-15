@@ -15,6 +15,7 @@ fi
 NDKABI=21
 
 
+
 echo "Building arm64-v8a lib"
 NDKVER=$ANDROID_NDK/toolchains/aarch64-linux-android-4.9
 NDKP=$NDKVER/prebuilt/$PREBUILT_PLATFORM/bin/aarch64-linux-android-
